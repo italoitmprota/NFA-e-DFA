@@ -70,7 +70,3 @@ if __name__ == "__main__":
   - Salva e imprime o resultado.
 
 ---
-
----
-
-Se quiser, posso te ajudar a transformar isso em um arquivo pronto para subir no seu repositório. Ou até criar uma versão em inglês se você quiser deixar o projeto internacional. Só me dizer!
